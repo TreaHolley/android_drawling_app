@@ -1,4 +1,4 @@
-#HowTo
+HowTo:
 The new feature added is a functional saving button, there are undo/redo buttons but have no functionality yet. Click the color you want to draw with or eraser to erase the drawling. Click the pencil to draw with the selected color.
 
 Sources:
